@@ -69,4 +69,4 @@ This industrial project reflects my foundational approach to handling complex da
 - **Methodological Adaptability:** Learned to navigate proprietary industrial software architectures (Schlumberger OMEGA) and adjusted signal processing parameters dynamically based on data anomalies.
 - **Analytical Stamina:** Accustomed to reviewing massive, continuous time-series configurations and extracting clear, actionable spatial patterns from highly abstract visual inputs.
 
-
+**Note on Documentation:** The full technical report inside the `documentation/` folder is maintained in its original language (Bahasa Indonesia) to preserve official corporate signs and university validation stamps. All core methodologies, processing algorithms, and visual highlights are fully summarized above in English.
