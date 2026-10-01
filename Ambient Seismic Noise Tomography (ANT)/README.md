@@ -1,6 +1,7 @@
 # Shear Wave Velocity Structure Construction Using Ambient Seismic Noise Tomography (ANT)
 
-> **Official Publication:** This research was peer-reviewed and published in the *Jurnal Geofisika (2019) Vol. 17, No. 02, pp. 1-4* by the Indonesian Association of Geophysicists (HAGI). 
+> **Official Publication:** This research was peer-reviewed and published in the *Jurnal Geofisika (2019) Vol. 17, No. 02, pp. 1-4* by the Indonesian Association of Geophysicists (HAGI).
+> 
 > *Note on Documentation: The full published paper inside the `documentation/` folder is maintained in its original language (Bahasa Indonesia) to preserve publishing formats. A comprehensive English technical summary is provided below.*
 
 ---
