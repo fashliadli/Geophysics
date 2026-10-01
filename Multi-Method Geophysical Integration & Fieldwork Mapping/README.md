@@ -4,8 +4,8 @@
 - **Type:** Intensive Geophysical & Geological Fieldwork (TG-3290)
 - **Field Locations:** Northern Complex (Structural Mapping) & Southern Zone (Desa Seling Landslide Assessment), Kebumen, Indonesia
 - **Integrated Methods:** 
-  - *Deep/Regional Tools:* Gravity (Gaya Berat), Ground Magnetics
-  - *Shallow/Near-Surface Tools:* DC Resistivity (Geolistrik Profiling & VES), Seismic Refraction, Frequency-Domain Electromagnetics (EM), Ground Penetrating Radar (GPR)
+  - *Deep/Regional Tools:* Gravity, Ground Magnetics
+  - *Shallow/Near-Surface Tools:* DC Resistivity & VES, Seismic Refraction, Frequency-Domain Electromagnetics (EM), Ground Penetrating Radar (GPR)
 - **Core Competencies:** Multi-Method Data Integration, Geophysical Joint Modeling, Geological Field Mapping, Near-Surface Hazard Assessment, Signal-to-Spatial Inversion
 
 ---
