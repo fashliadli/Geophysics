@@ -1,5 +1,9 @@
 # 2D Subsurface Seismic Data Processing using OMEGA
 
+
+> **Note on Documentation:** The full technical report inside the `documentation/` folder is maintained in its original language (Bahasa Indonesia) to preserve official corporate signs and university validation stamps. All core methodologies, processing algorithms, and visual highlights are fully summarized below in English.
+
+
 ## Project Overview
 - **Role:** Geophysics Data Processing Intern 
 - **Location:** Pertamina Upstream Technology Center (UTC), Jakarta
@@ -68,5 +72,3 @@ This industrial project reflects my foundational approach to handling complex da
 - **Data Integrity & QA/QC Discipline:** Spent extensive hours cleaning noisy datasets and validating intermediate stages. I understand that the quality of any automated system or interpretation depends entirely on the cleanliness of the input data.
 - **Methodological Adaptability:** Learned to navigate proprietary industrial software architectures (Schlumberger OMEGA) and adjusted signal processing parameters dynamically based on data anomalies.
 - **Analytical Stamina:** Accustomed to reviewing massive, continuous time-series configurations and extracting clear, actionable spatial patterns from highly abstract visual inputs.
-
-**Note on Documentation:** The full technical report inside the `2D Subsurface Seismic Data Processing using OMEGA/documentation/Geophysics Practical Work.pdf` folder is maintained in its original language (Bahasa Indonesia) to preserve official corporate signs and university validation stamps. All core methodologies, processing algorithms, and visual highlights are fully summarized above in English.
