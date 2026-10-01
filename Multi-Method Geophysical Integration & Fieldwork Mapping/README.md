@@ -1,7 +1,9 @@
 # Multi-Method Geophysical Integration & Fieldwork Mapping: Karangsambung Structural Validation & Landslide Hazard Assessment
 
+> **Note on Documentation:** The full technical report inside the `documentation/` folder is maintained in its original language (Bahasa Indonesia). However, all core methodologies, integrated inversion models, and geophysical diagnostics are fully summarized below in English for international reviewers.
+
 ## Project Overview
-- **Type:** Intensive Geophysical & Geological Fieldwork (TG-3290)
+- **Type:** Intensive Geophysical & Geological Fieldwork
 - **Field Locations:** Northern Complex (Structural Mapping) & Southern Zone (Desa Seling Landslide Assessment), Kebumen, Indonesia
 - **Integrated Methods:** 
   - *Deep/Regional Tools:* Gravity, Ground Magnetics
