@@ -9,8 +9,8 @@
 ## Project Overview
 - **Core Methodology:** Ambient Seismic Noise Tomography (ANT), Seismic Interferometry
 - **Key Algorithms:** Frequency-Time Analysis (FTAN), Linear Inversion, Particle Swarm Optimization (PSO)
-- **Technical Framework:** Seismological Wave Processing Tools (Yao dkk., 2006; Yudistira dkk., 2017)
-- **Competencies:** Digital Signal Processing (DSP), Computational Inverse Modeling, Spatial Data Grid Analysis, Geohazard Risk Assessment
+- **Technical Framework:** Seismological Wave Processing Tools (Yao et al., 2006; Yudistira et al., 2017)
+- **Competencies:** Digital Signal Processing (DSP), Computational Inverse Modeling, Spatial Data Grid Analysis
 
 ---
 
@@ -23,7 +23,7 @@ To resolve this restriction, this project utilized **Ambient Seismic Noise Tomog
 
 ## Computational & Methodological Workflow (The "How")
 
-The continuous vertical-component seismic data from **22 stationary networks in Palu** (recorded over a 3-month cycle) was processed through a rigid macro-scale wave-processing sequence:
+The continuous vertical-component seismic data from **22 station networks in Palu** (recorded over a 3-month cycle) was processed through a rigid macro-scale wave-processing sequence:
 
 ### 1. Single-Station Signal Conditioning
 - Applied rigorous automated signal preprocessing: **demeaning, detrending, and bandpass filtering** within a target frequency window of 0.5 – 6 seconds.
@@ -31,7 +31,7 @@ The continuous vertical-component seismic data from **22 stationary networks in 
 
 ### 2. Cross-Correlation & Daily Stacking
 - Computed cross-correlation functions (CCF) across interstation networks, establishing **212 unique station-pair signal tracks**.
-- Consolidated long-term continuous records by stacking daily harian correlations to isolate coherent Empirical Green’s Functions.
+- Consolidated long-term continuous records by stacking daily  correlations to isolate coherent Empirical Green’s Functions.
 
 ### 3. Dispersion Curve Extraction via FTAN
 - Executed **Frequency-Time Analysis (FTAN)** to map Rayleigh wave group velocity variations (ranging between 0.2 to 2.0 km/s).
